@@ -11,3 +11,64 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.main-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.div-1{
+  height: 393px;
+  width: 453px;
+  background-color: #9E83C0;
+}
+.div-2{
+  position: relative;
+  left: 70PX;
+  height:71px;
+  width: 305px;
+  background-color: #14E5F2;
+}
+.div-2 h3{
+  height: 28px;
+  width: 86px;
+  position: relative;
+  color: white;
+  font-size: 18px;
+  top:20px;
+  left: 100px;
+}
+.div-3{
+  display: flex;
+  flex-direction: column;
+  height: 100px;
+  width: 450px;
+}
+input{
+  position: relative;
+  height:40px;
+  width: 274px;
+  border:0;
+  top: 40px;
+  left: 41px;
+}
+.butadd{
+  position: relative;
+  width: 85px;
+  height: 34px;
+  border: 0;
+  background-color: red;
+  color: white;
+  left: 320px;
+}
+.div-4{
+  position: relative;
+  left: 30px;
+  background-color: #0CEDD2;
+  height: 145px;
+  width: 395px;
+  
+}
+.div-5{
+  display: flex;
+  position: relative;
+}
